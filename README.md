@@ -31,7 +31,7 @@ The resulting Expert GUI is helping to debug the new system and it's used operat
 
 
 ## Results
-In the result presented we reported much more precision comparing the average of the orbit. As far as the standard deviation concerns and we could appreciate the results for the new system show much less noise. The data is more focused, and less spread out. As conclusion, the new orbit system is used operationally by BI and OP for orbit and trajectory and the software is useful for debugging new features for the first turn positions.
+In the results presented we reported much more precision comparing the average of the orbit. As far as the standard deviation concerns, we could appreciate the performance for the new system show much less noise. The data is more focused, and less spread out. As conclusion, the new orbit system is used operationally by BI and OP for orbit and trajectory and the software is useful for debugging new features for the first turn positions.
 
 ![compNEWOLDLEIR1](https://user-images.githubusercontent.com/3811449/113395094-9c825a80-9399-11eb-8ff1-3c4d4bfbc5f3.png)
 ![compSTD_NEWOLDLEIR1](https://user-images.githubusercontent.com/3811449/113395152-b15eee00-9399-11eb-9080-d2b79f4b3ad0.png)
@@ -41,5 +41,6 @@ In the result presented we reported much more precision comparing the average of
 
 ## Author
 Copyright(c) Luisa Sanchez Avivar.
+
 For more detailed information, please see the complete [presentation at INDICO](https://indico.cern.ch/event/776640/contributions/3230043/attachments/1759118/2863064/Software_in_the_new_BPM_sys._LEIR_1.pdf)
 
