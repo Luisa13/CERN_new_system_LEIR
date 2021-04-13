@@ -40,7 +40,7 @@ In the results presented we reported much more precision comparing the average o
 
 
 ## Author
-Copyright(c) Luisa Sanchez Avivar.
+Luisa Sanchez Avivar - 2018
 
 For more detailed information, please see the complete [presentation at INDICO](https://indico.cern.ch/event/776640/contributions/3230043/attachments/1759118/2863064/Software_in_the_new_BPM_sys._LEIR_1.pdf)
 
