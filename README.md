@@ -12,7 +12,8 @@ On the one hand, we needed to cope with an orbit upgrade in the ring orbit (for 
 #### ORBIT
 - New digital acquisition system was installed.
 - Driver upgrade was needed for trajectory feature.
-- Reuse a previously developed class in order to change it completely. The common class for three compact rings makes the maintenance easier.
+- Reuse a previously developed FESA class in order to change it completely. The common FESA class for three compact rings makes the maintenance easier.
+
 #### INJECTION LINE
 In order to optimize the injection efficiency into LEIR the transfer line between L3 and LEIR has been equipped with nine highly sensitive electrostatic BPMs.
 Therefore, the acquisition system shall be improved in order to allow turn by turn acquisition as well as bunch by bunch acquisition
