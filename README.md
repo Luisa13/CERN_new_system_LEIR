@@ -5,7 +5,7 @@ Here you can find the system installed for LEIR which allows to measure the posi
 
 
 ## Context
-On the one hand in the ring orbit we needed to cope with an orbit upgrade (for LEIR) due to an obsolence of the current software so the calibration programs needed to be replaced; On the other hand the low intensity ion beams coming from LINAC3 urged an optimization in the injection line efficiency.
+On the one hand, we needed to cope with an orbit upgrade in the ring orbit (for LEIR) due to an obsolence of the current software, consequently the calibration systems needed to be replaced; On the other hand the low intensity of the ion beams coming from LINAC3, urged an optimization in the injection line efficiency.
 
 
 ## What was done
