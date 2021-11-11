@@ -1,6 +1,6 @@
 # New BPM Orbit System in LEIR
 This is the work presented in the Beam Instrumentation annual workshop in 2018 where I introduced all the software achievements for the LEIR accelerator.
-**LEIR** stands by [Low Energy Ion Ring](https://home.cern/science/accelerators/low-energy-ion-ring), and is a particle accelerator at CERN used to accelerate ions from the LINAC 3 to the PS (Proton Synchrotron ) to provide ions for collisions within the LHC.
+**LEIR** stands by [Low Energy Ion Ring](https://home.cern/science/accelerators/low-energy-ion-ring) which is a particle accelerator at CERN used to accelerate ions from the LINAC 3 to the PS (Proton Synchrotron ) in order to provide ions for collisions within the LHC.
 Here you can find the system installed for LEIR which allows to measure the positions of the bunched beam.
 
 
